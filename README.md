@@ -13,6 +13,9 @@ A clean and simple weather app using the OpenWeatherMap API.
 - Error handling for invalid cities
 - Enter key support for faster search
 
+  ## 🌐 Live Demo
+[View Weather App](https://rb1507.github.io/PRODIGY_WD_05/)
+
 ### Tech Stack
 
 - HTML
